@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+
+# environment variables
+.env
+
+# local "database" file (created automatically the first time you run the server)
+server/data/db.json
+
+# editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+npm-debug.log*
